@@ -8,6 +8,7 @@
 :set number
 :set paste
 :set relativenumber
+:set autochdir
 :set nobackup
 :set noswapfile
 :set showmatch
@@ -17,6 +18,8 @@
 :set smarttab
 :set softtabstop=4
 :set mouse=a
+
+
 
 
 call plug#begin('~/AppData/Local/nvim/plugged')
