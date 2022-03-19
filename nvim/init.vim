@@ -59,6 +59,8 @@ Plug 'https://github.com/jbyuki/instant.nvim' " Neobim Live Share
 Plug 'https://github.com/ojroques/nvim-buildme' " Build commands
 Plug 'https://github.com/airblade/vim-rooter' " Change working directory to project root
 Plug 'https://github.com/brooth/far.vim' " Search and Replace
+" Plug 'https://github.com/mg979/vim-visual-multi' " Multiple cursors
+Plug 'https://github.com/terryma/vim-multiple-cursors' " Multiple cursors
 
 
 
