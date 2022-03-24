@@ -90,7 +90,7 @@ set termguicolors
 set background=dark
 
 
-colorscheme jellybeans
+colorscheme gruvbox
 
 
 
