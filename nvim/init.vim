@@ -120,6 +120,7 @@ let g:NERDTreeDirArrowCollapsible="~"
 " CocInstall coc-clangd
 " CocInstall coc-go
 " CocInstall coc-omnisharp
+" CocInstall coc-rls
 " CocInstall coc-java
 " CocInstall coc-json
 " CocInstall coc-snippets
