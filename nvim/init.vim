@@ -33,7 +33,7 @@ set shiftwidth=4
 set smarttab
 set softtabstop=4
 set mouse=a
-set guicursor=i:block
+" set guicursor=i:block
 
 
 " change cursor
